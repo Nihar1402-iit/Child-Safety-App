@@ -1,7 +1,8 @@
 # Child Safety Monitoring App
 
 *CLICK ON THE IMAGE FOR THE DEMONSTRATION VIDEO*
-[![Project Video Link](IMG_7942.jpg)](https://youtu.be/_PTEDfMFPOw)
+[![Project Video Link](https://github.com/Nihar1402-iit/Child-Safety-App/assets/117573996/f78430da-79e8-4a4a-b8d1-15e0a73f4fa5)
+)(https://youtu.be/_PTEDfMFPOw)
 
 ## **Objectives of the App**
 
